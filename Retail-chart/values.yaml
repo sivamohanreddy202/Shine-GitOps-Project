@@ -1,6 +1,6 @@
 replicaCount:
-  mongodb: 2
-  userprofile: 2
+  mongodb: 3
+  userprofile: 5
 
 database:
   name: myDatabase
